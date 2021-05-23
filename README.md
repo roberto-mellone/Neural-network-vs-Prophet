@@ -1,7 +1,7 @@
 # Neural Network vs Prophet
 
 In questo notebook vedremo come <b><i> spesso un modello più semplice può ottenere dei buoni risultati equiparabili e delle reti neurali </i></b> .
-Per realizzare questo lavoro abbiamo utilizzato un dataset denominato alchol_sales, codesto dataset è una Times Series che riguarda le vendite di alcolici mese per mese in un periodo che va dal 1992/01/01 al 2019/12/01. Il dataset lo si può trovare presso il seguente link:
+Per realizzare questo lavoro abbiamo utilizzato un dataset denominato <b><i>alchol_sales</i></b>, codesto dataset è una Times Series che riguarda le vendite di alcolici mese per mese in un periodo che va dal 1992/01/01 al 2019/12/01. Il dataset lo si può trovare presso il seguente link:
 *	https://rdrr.io/cran/TSA/man/beersales.html
 *	In ogni caso il dataset lo troverete anche in una cartella denominata 'data' di questo lavoro su github.
 
